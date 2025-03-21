@@ -1,6 +1,6 @@
 AI Ignite 2025
 Title:
-Baby Activity Recommender
+Kids Activity Recommender
 
 Features:
 - Age-appropriate activities recommendations
